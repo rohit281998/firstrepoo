@@ -1,1 +1,1 @@
-Hello my first repo testing
+Hello java
